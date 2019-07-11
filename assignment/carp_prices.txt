@@ -1,0 +1,26 @@
+car_ID	- useless - numeric
+symboling	- numeric - not sure
+CarName	- name - category
+fueltype - category	gas, electric
+aspiration	- category ex std, turbo
+doornumber	- category 
+carbody	- category 
+drivewheel	- category
+enginelocation	- category
+wheelbase	- numeric
+carlength	- numeric
+carwidth	- numeric
+carheight - numeric	
+curbweight	- numeric
+enginetype	- category
+cylindernumber- category	
+enginesize	- numeric
+fuelsystem	- category
+boreratio	- numeric
+stroke	- numeric
+compressionratio - numeric 	
+horsepower	- numeric
+peakrpm	- numeric
+citympg	- numeric
+highwaympg	- numeric
+price - numeric
